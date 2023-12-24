@@ -14,7 +14,7 @@ https://invoice-generator-react.netlify.app/
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/kaustubh76/invoice-generator-project
 
 npm install
 
@@ -29,8 +29,3 @@ npm start / npm run build
 - [x] Calculate Tax and Discounts
 
 - [ ] Store invoices in Firebase DB
-
-
-### Meta
-
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
